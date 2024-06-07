@@ -67,11 +67,3 @@ The Expectimax algorithm extends Minimax to handle games with elements of chance
 
 - **Chess Engine**: This project uses [python-chess](https://python-chess.readthedocs.io/en/latest/) for managing chess game logic.
 - **GUI**: The graphical interface is powered by [Pygame](https://www.pygame.org/news).
-
----
-## Results
-AlphaBetaAgent Vs AlphaBetaAgent
-<div align="center">
-    <img src="gameplay.gif" alt="demo">
-</div>
-s
